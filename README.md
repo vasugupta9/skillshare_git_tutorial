@@ -7,3 +7,5 @@ Basic Stuff
 Trying out the code
 
 ## Includes pull requests tutorial
+
+### Added stuff from master branch
